@@ -19,14 +19,14 @@
 
 ## GUI
 
-images/GUI.jpg
+![GUI介面畫面](images/GUI.jpg)
 
 ---
 
 ### 單一濾波器模擬結果
 
-images/RLS.jpg
+![RLS濾波器結果](images/RLS.jpg)
 
 ### 三種濾波器誤差比較
 
-images/three.jpg
+![說明文字](圖片路徑)
