@@ -17,12 +17,16 @@
 
 ---
 
-## 畫面預覽
+## GUI
 
-請將模擬後的圖表截圖後放入 `images/` 資料夾，並使用以下語法插入：
+images/GUI.jpg
+
+---
 
 ### 單一濾波器模擬結果
 
-
+images/RLS.jpg
 
 ### 三種濾波器誤差比較
+
+images/three.jpg
